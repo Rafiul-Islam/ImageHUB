@@ -1,12 +1,12 @@
-This is a basic food searching app with React and React Hook where you can search food and get details of this food and others food releted to the food. This is a fully api base app. i get is from [Edamam](https://www.edamam.com/)
+This is a basic image searching and downloading portal
 
 ## [ImageHUB](https://image-hub-react.netlify.app/)
 
 ## Features
- - search food with name
- - get the food recipes
- - some food releted this searched food
- - Link of every food item
+ - search image
+ - get fix amount of serach result
+ - view image
+ - download image
  
 ## Technology
  - HTML
