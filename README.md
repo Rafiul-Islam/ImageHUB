@@ -1,4 +1,4 @@
-This is a basic image searching and downloading portal
+In this project we have use React along with Material UI to build an image finder application that uses the PixaBay API to fetch images based on a query string. We will also implement a Dialog box from Material UI to view the large image
 
 ## [ImageHUB](https://image-hub-react.netlify.app/)
 
